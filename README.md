@@ -1,6 +1,10 @@
 # CDS-CIA2-video_assignment
 Open in colab, click this
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SXC-MSc-BDA/CDS-CIA2-video_assignment/blob/main/Cds_data_cleaning_and_vis%20(1).ipynb)
+Team members
+Tanushri Pramod Nambiar- 2609022
+Sristhi - 2609023
+Richmond Aloj-2609032
 
 What India's Labour Data Reveals About the Gig Economy's Hidden Workforce.
 This dataset captures the experiences of low-skilled and unskilled gig workers in Bangalore, India, with data collected both before (mid-2019) and during (2020–21) the COVID-19 pandemic. Structured around the UN Human Security Framework, the dataset provides a comprehensive view of economic, food, health, environmental, political, personal, and community dimensions affecting vulnerable populations. The survey focuses on workers from low-income backgrounds, including drivers, delivery personnel, domestic workers, street vendors, and others, highlighting their employment status, income fluctuations, loan usage, household challenges, access to essential services, dietary patterns, psychological fears, community support, and vaccine perceptions. The dataset provides critical insights into the multifaceted hardships faced by urban households during a global crisis and serves as a valuable resource for policymakers, researchers, and social organizations aiming to address inequality and enhance resilience.
